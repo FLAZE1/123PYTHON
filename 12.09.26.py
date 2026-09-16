@@ -85,14 +85,14 @@ from math import*
 # num3 = num+num2
 # print(format(num3,"b"))
 
-a=int(input(),8)
-b=int(input(),8)
-f=format(a,"d")
-l=format(b,"d")
-a=a**3
-b=b//3
-num = a+b
-print(format(num,"x"))
+# a=int(input(),8)
+# b=int(input(),8)
+# f=format(a,"d")
+# l=format(b,"d")
+# a=a**3
+# b=b//3
+# num = a+b
+# print(format(num,"x"))
 
 
 
