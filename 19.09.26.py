@@ -86,3 +86,4 @@ from math import*
 # I1=p*i2
 # I2=p2*i
 # print((I2-I1)//8//1024)
+123
