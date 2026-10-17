@@ -43,4 +43,14 @@
 # print(s)
 
 #5
+a=0
+suma=0
+mini=30000
+maxi=0
+b=0
+
+while a!=999:
+    a=int(input())
+
+
 
