@@ -91,16 +91,25 @@
 # print(s)
 
 #1
-r=int(input())
-c=int(input())
+# r=int(input())
+# c=int(input())
+#
+# t=0
+#
+# for i in range(r):
+#     for j in range(c):
+#         x=int(input())
+#         n=j * r + i + 1
+#         t+=x * n
+#
+# print(t)
 
-t=0
-
-for i in range(r):
-    for j in range(c):
-        x=int(input())
-        n=j * r + i + 1
-        t+=x * n
-
-print(t)
+# import math
+#
+# a, b, c = map(int, input().split())
+# x, y, z = sorted([a, b, c])
+#
+# ans = math.hypot(x + y, z)
+#
+# print(f"{ans:.10f}")
 
