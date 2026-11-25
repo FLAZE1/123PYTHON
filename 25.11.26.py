@@ -74,9 +74,3 @@
 # f=b.lower()
 # print(c.count(f))
 
-#6
-a=input()
-b=a.split(",")
-total=0
-m=0
-for i in b:
